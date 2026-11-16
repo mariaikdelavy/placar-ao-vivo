@@ -1,0 +1,1 @@
+Documento dos padrões de projeto (em elaboração).
